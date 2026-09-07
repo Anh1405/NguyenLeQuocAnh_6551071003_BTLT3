@@ -1,0 +1,16 @@
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\obj\Debug\net10.0-windows\Chuong3_BT2.Form1.resources
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\obj\Debug\net10.0-windows\Chuong3_BT2.csproj.GenerateResource.cache
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\obj\Debug\net10.0-windows\Chuong3_BT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\obj\Debug\net10.0-windows\Chuong3_BT2.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\obj\Debug\net10.0-windows\Chuong3_BT2.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\obj\Debug\net10.0-windows\Chuong3_BT2.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\bin\Debug\net10.0-windows\Chuong3_BT2.exe
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\bin\Debug\net10.0-windows\Chuong3_BT2.deps.json
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\bin\Debug\net10.0-windows\Chuong3_BT2.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\bin\Debug\net10.0-windows\Chuong3_BT2.dll
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\bin\Debug\net10.0-windows\Chuong3_BT2.pdb
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\obj\Debug\net10.0-windows\Chuong3_BT2.dll
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\obj\Debug\net10.0-windows\refint\Chuong3_BT2.dll
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\obj\Debug\net10.0-windows\Chuong3_BT2.pdb
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\obj\Debug\net10.0-windows\Chuong3_BT2.genruntimeconfig.cache
+C:\Users\Acer Nitro\source\repos\Chuong3_BT2\obj\Debug\net10.0-windows\ref\Chuong3_BT2.dll
